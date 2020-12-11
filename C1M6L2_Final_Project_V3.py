@@ -1,5 +1,7 @@
 # Final Project - Word Cloud
 
+# Note: This code was originally written in Jupyter Notebook, hence the 'block' style of comments and prompts
+
 # For this project, you'll create a "word cloud" from a text by writing a script.  This script needs to process the
 # text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies,
 # and ignore uninteresting or irrelevant words.  A dictionary is the output of the `calculate_frequencies` function.
