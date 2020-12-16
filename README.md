@@ -1,4 +1,4 @@
-# "Crash course on Python" Final assignment
+# Coursera - "Crash course on Python" Final assignment
 
 ## 1. Overview
 
