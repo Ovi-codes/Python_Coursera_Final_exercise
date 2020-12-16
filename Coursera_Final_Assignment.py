@@ -1,4 +1,4 @@
-# Final Project - Word Cloud
+# Final Assignment - Word Cloud
 
 # Note: This code was originally written in Jupyter Notebook, hence the 'block' style of comments and prompts
 
